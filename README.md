@@ -65,10 +65,10 @@ Make sure you have the following installed:
 - Responsive design
 
 ## Screenshots
-### login Page
+### Login Page
 ![Login Page](image/login.png)
 
-### signup Page
+### Signup Page
 ![Sign Up Page](image/signup.png)
 
 ### Conservation Page
