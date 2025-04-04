@@ -72,7 +72,7 @@ Make sure you have the following installed:
 ![Sign Up Page](image/signup.png)
 
 ### Conservation Page
-![Conservation Page](images/conservation.png)
+![Conservation Page](image/conservation.png)
 
 
 ## Contributing
