@@ -57,13 +57,6 @@ Make sure you have the following installed:
    http://localhost:3000
    ```
 
-## Features
-- User authentication (JWT-based login/signup)
-- Create, edit, and delete blog posts
-- Commenting system
-- Image uploads
-- Responsive design
-
 ## Screenshots
 ### Login Page
 ![Login Page](image/login.png)
