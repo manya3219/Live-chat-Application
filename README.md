@@ -35,7 +35,7 @@ A **Real-time Live Chat Application** built with the **MERN stack** (MongoDB, Ex
 ![Signup](image/signup.png)
 
 ### 💬 Conversation Page
-![Conversation](image/convervation.png)
+![Conversation](image/conservation.png)
 
 
 
