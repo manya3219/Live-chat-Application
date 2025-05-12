@@ -7,9 +7,6 @@ A **Real-time Live Chat Application** built with the **MERN stack** (MongoDB, Ex
 - 🔐 **Firebase Authentication**: Secure user authentication with email and Google login.
 - 💬 **Real-time Messaging**: Real-time one-on-one and group chats using Socket.IO.
 - 📜 **Chat History**: Persist chat messages in MongoDB, allowing users to view past conversations.
-- 🧑‍💻 **Admin Dashboard**: Admin can manage users and monitor all conversations.
-- 📸 **File Sharing**: Ability to share images, files, and media in chat.
-- 🧑‍🤝‍🧑 **User Profiles**: Each user has a personalized profile with basic details.
 - 🌐 **Responsive Design**: The app is fully responsive and works on both desktop and mobile devices.
 - 🗣️ **User-Friendly UI**: Clean and intuitive design using React and Tailwind CSS.
 
@@ -28,7 +25,6 @@ A **Real-time Live Chat Application** built with the **MERN stack** (MongoDB, Ex
 - **Authentication:**
   - Firebase Authentication (Email and Google login)
 
-## 📁 Project Structure
 
 ## 📷 Screenshots
 
